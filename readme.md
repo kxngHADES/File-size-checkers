@@ -61,7 +61,7 @@ The script handles `FileNotFoundError` and `PermissionError` exceptions that may
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is actually not licensed lol😭😭😂😂
 
 ## Contributing
 
