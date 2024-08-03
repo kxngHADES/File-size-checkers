@@ -1,5 +1,3 @@
-Sure! Here is a sample README for your script:
-
 ---
 
 # Large File Scanner
@@ -59,14 +57,9 @@ C:\path\to\largefile2: 2.5 GB
 
 The script handles `FileNotFoundError` and `PermissionError` exceptions that may occur during file size retrieval. If these errors are encountered, the script will skip the problematic files and continue scanning.
 
-## License
-
-This project is actually not licensed lol😭😭😂😂
 
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
 
 ---
-
-This README provides a clear overview of the script, how to configure and use it, and what the output will look like. Adjust any details as necessary to fit your specific project structure and requirements.
